@@ -1,0 +1,7 @@
+#Wed Oct 18 12:58:40 CEST 2017
+base.0=C\:\\Users\\Msi\\Documents\\GitHub\\testgps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5911e63d12a88f44aaa92a0d793bbb67d991ea08
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Msi\\Documents\\GitHub\\testgps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_eda34c4191b46b7097c40678cfd6b6ed2f2bbd49\\classes.dex
+base.1=C\:\\Users\\Msi\\Documents\\GitHub\\testgps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_eda34c4191b46b7097c40678cfd6b6ed2f2bbd49
+file.0=C\:\\Users\\Msi\\Documents\\GitHub\\testgps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5911e63d12a88f44aaa92a0d793bbb67d991ea08\\classes.dex

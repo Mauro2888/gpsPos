@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:7:22-64
+uses-feature#android.hardware.location.gps
+ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:8:19-63
+uses-feature#android.hardware.location.network
+ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:9:19-67
+application
+ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:10:5-24:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Msi\.android\build-cache\3d56d90b33e332e2032e6f93e6ddd3d29e4b3e9c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Msi\.android\build-cache\667a9d887687d7368f0400fb60b70c9574de0561\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Msi\.android\build-cache\9d485a254a764872be9c682e88f66f94dccc7c8a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Msi\.android\build-cache\a79727cf6e95e7ef077955925c3d80327edbf350\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Msi\.android\build-cache\147a0fe1afef652e6ea06eed2f9b10538185da1d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Msi\.android\build-cache\bfd4ff5865440b10a3e48c6ea91027eca741c4b2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Msi\.android\build-cache\5bc05056c608f1357ceda914af5f21d0d6a6082a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Msi\.android\build-cache\5dc6b5119157674ae79fe37fc8f412300610e91f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Msi\.android\build-cache\2161736a6ea2afc4ffd0c8a63fc0a072dc67bcea\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta5] C:\Users\Msi\.android\build-cache\7bbfecc7e365bffb08435883912925d271611b6d\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:16:9-40
+activity#gps.test.com.testgps.MainActivity
+ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Msi\.android\build-cache\3d56d90b33e332e2032e6f93e6ddd3d29e4b3e9c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Msi\.android\build-cache\667a9d887687d7368f0400fb60b70c9574de0561\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Msi\.android\build-cache\9d485a254a764872be9c682e88f66f94dccc7c8a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Msi\.android\build-cache\a79727cf6e95e7ef077955925c3d80327edbf350\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Msi\.android\build-cache\147a0fe1afef652e6ea06eed2f9b10538185da1d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Msi\.android\build-cache\bfd4ff5865440b10a3e48c6ea91027eca741c4b2\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Msi\.android\build-cache\5bc05056c608f1357ceda914af5f21d0d6a6082a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Msi\.android\build-cache\5dc6b5119157674ae79fe37fc8f412300610e91f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Msi\.android\build-cache\2161736a6ea2afc4ffd0c8a63fc0a072dc67bcea\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta5] C:\Users\Msi\.android\build-cache\7bbfecc7e365bffb08435883912925d271611b6d\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Msi\.android\build-cache\3d56d90b33e332e2032e6f93e6ddd3d29e4b3e9c\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Msi\Documents\GitHub\testgps\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Msi\.android\build-cache\3d56d90b33e332e2032e6f93e6ddd3d29e4b3e9c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Msi\.android\build-cache\667a9d887687d7368f0400fb60b70c9574de0561\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Msi\.android\build-cache\9d485a254a764872be9c682e88f66f94dccc7c8a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Msi\.android\build-cache\a79727cf6e95e7ef077955925c3d80327edbf350\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Msi\.android\build-cache\147a0fe1afef652e6ea06eed2f9b10538185da1d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Msi\.android\build-cache\bfd4ff5865440b10a3e48c6ea91027eca741c4b2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Msi\.android\build-cache\5bc05056c608f1357ceda914af5f21d0d6a6082a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Msi\.android\build-cache\5dc6b5119157674ae79fe37fc8f412300610e91f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Msi\.android\build-cache\2161736a6ea2afc4ffd0c8a63fc0a072dc67bcea\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Msi\.android\build-cache\3d56d90b33e332e2032e6f93e6ddd3d29e4b3e9c\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Msi\.android\build-cache\3d56d90b33e332e2032e6f93e6ddd3d29e4b3e9c\output\AndroidManifest.xml:26:9-47

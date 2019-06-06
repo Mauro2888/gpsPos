@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Msi\Documents\GitHub\testgps\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05615a0e3b8022c7ec989a5361280b161686f910">
+        <dex dex="C:\Users\Msi\Documents\GitHub\testgps\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5911e63d12a88f44aaa92a0d793bbb67d991ea08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Msi\Documents\GitHub\testgps\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Msi\Documents\GitHub\testgps\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_eda34c4191b46b7097c40678cfd6b6ed2f2bbd49\classes.dex" />
+    </item>
+
+</items>
