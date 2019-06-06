@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">gps_test</string>
-    <string name="longitude">Longitudine : </string>
-    <string name="latitude">Latitudine :</string>
-    <string name="get_pos">get position</string>
-</resources>
